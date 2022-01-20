@@ -1,0 +1,8 @@
+/* Banner Slider Styling */
+#banner{
+    background-color: #fceae8;
+}
+
+.carousel-indicators button{
+    visibility: hidden;
+}
