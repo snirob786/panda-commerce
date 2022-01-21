@@ -6,3 +6,6 @@
 .carousel-indicators button{
     visibility: hidden;
 }
+
+#banner .carousel-caption{
+    left: 5%;
